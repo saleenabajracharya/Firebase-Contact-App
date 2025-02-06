@@ -9,3 +9,28 @@ body{
  input{
     height: 40px;
  }
+
+.contact-body{
+    background-color: #FFEAAE;
+    height: 80px;
+}
+
+.user-icon{
+   color: #F6820C;
+}
+
+.delete-icon{
+   color: #F6820C;
+}
+
+.modal-design{
+   min-height: 200px;
+   min-width: 80%;
+   background-color: white;
+   z-index: 50;
+}
+
+.contact-button{
+   background-color: #F6820C !important;
+
+}
